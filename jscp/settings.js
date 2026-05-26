@@ -36,9 +36,7 @@ let settings = {
     image: './image/theend.jpg',
     content: `Di hari ulang tahunmu ini, semoga semua luka pelan-pelan menemukan sembuhnya.
 
-Kamu tidak harus selalu terlihat kuat di depan semua orang.
-
-Istirahat kalau lelah, menangis kalau sesak, tapi jangan berhenti melangkah.`
+dan hidup yang lebih bahagia untukmu.`
 }
     ],
     enableBook: true,
@@ -381,11 +379,9 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                    image: './image/theend.jpg',
-    content: `Di hari ulang tahunmu ini, semoga semua luka pelan-pelan menemukan sembuhnya.
+    content: `Di hari ulang tahunmu yang ke 22 ini, semoga semua luka yang kamu rasakan pelan-pelan menemukan sembuhnya.
 
-Kamu tidak harus selalu terlihat kuat di depan semua orang.
-
-Istirahat kalau lelah, menangis kalau sesak, tapi jangan berhenti melangkah.`
+dan hidup yang lebih bahagia untukmu.`
             }
         ]
     };
